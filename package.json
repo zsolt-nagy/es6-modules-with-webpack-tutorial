@@ -1,0 +1,9 @@
+{
+  "name": "es6-module-loading-with-webpack",
+  "version": "1.0.0",
+  "description": "A tutorial demonstrating how to use ES6 modules with Webpack",
+  "author": "Zsolt Nagy",
+  "devDependencies": {
+    "babel-loader": "^5.0.0"
+  }
+}
