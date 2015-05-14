@@ -4,6 +4,7 @@
   "description": "A tutorial demonstrating how to use ES6 modules with Webpack",
   "author": "Zsolt Nagy",
   "devDependencies": {
-    "babel-loader": "^5.0.0"
+    "babel-loader": "^5.0.0",
+    "underscore": "^1.8.3"
   }
 }
