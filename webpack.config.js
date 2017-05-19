@@ -2,7 +2,7 @@ module.exports = {
     entry  : './src/main.js',
     output : {
         path     : __dirname,
-        filename : 'myaccount.dist.js'
+        filename : 'weatherapp.dist.js'
     },
     module : {
         loaders: [ { 
